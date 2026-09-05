@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PanelInfoConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PressStartAngle>225</PressStartAngle>
+  <PressMidAngle>315</PressMidAngle>
+  <PressEndAngle>135</PressEndAngle>
+  <PressLabel>Pump Press</PressLabel>
+  <PressMin>0</PressMin>
+  <PressMax>5000</PressMax>
+  <PressMajor>1000</PressMajor>
+  <PressMinor>100</PressMinor>
+  <PressHorizValues>True</PressHorizValues>
+  <TorqueStartAngle>225</TorqueStartAngle>
+  <TorqueMidAngle>315</TorqueMidAngle>
+  <TorqueEndAngle>135</TorqueEndAngle>
+  <TorqueLabel>Torque</TorqueLabel>
+  <TorqueMin>0</TorqueMin>
+  <TorqueMax>700</TorqueMax>
+  <TorqueMajor>100</TorqueMajor>
+  <TorqueMinor>10</TorqueMinor>
+  <TorqueHorizValues>False</TorqueHorizValues>
+  <HookloadStartAngle>180</HookloadStartAngle>
+  <HookloadMidAngle>315</HookloadMidAngle>
+  <HookloadEndAngle>90</HookloadEndAngle>
+  <HookloadLabel>HookLoad</HookloadLabel>
+  <HookloadMin>20</HookloadMin>
+  <HookloadMax>500</HookloadMax>
+  <HookloadMajor>100</HookloadMajor>
+  <HookloadMinor>10</HookloadMinor>
+  <HookloadHorizValues>True</HookloadHorizValues>
+  <FlowStartAngle>225</FlowStartAngle>
+  <FlowMidAngle>315</FlowMidAngle>
+  <FlowEndAngle>135</FlowEndAngle>
+  <FlowLabel>Flow Rate</FlowLabel>
+  <FlowMin>0</FlowMin>
+  <FlowMax>1000</FlowMax>
+  <FlowMajor>100</FlowMajor>
+  <FlowMinor>20</FlowMinor>
+  <FlowHorizValues>False</FlowHorizValues>
+  <RpmStartAngle>225</RpmStartAngle>
+  <RpmMidAngle>315</RpmMidAngle>
+  <RpmEndAngle>135</RpmEndAngle>
+  <RpmLabel>Rotation</RpmLabel>
+  <RpmMin>0</RpmMin>
+  <RpmMax>120</RpmMax>
+  <RpmMajor>20</RpmMajor>
+  <RpmMinor>5</RpmMinor>
+  <RpmHorizValues>True</RpmHorizValues>
+  <PressTitle>PSI</PressTitle>
+  <TorqueTitle>Amps</TorqueTitle>
+  <HookloadTitle>Klbs</HookloadTitle>
+  <FlowTitle>G.P.M</FlowTitle>
+  <RpmTitle>RPM</RpmTitle>
+</PanelInfoConfig>
